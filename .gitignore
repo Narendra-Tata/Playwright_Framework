@@ -1,0 +1,13 @@
+node_modules/
+/test-results/
+/playwright-report/
+/playwright/.cache/
+allure-results/
+allure-report/
+html-report/
+practice.ts
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+package-lock.json
